@@ -2,6 +2,10 @@
 
 Simply Disply How to debug sinatra application with debugger or pry
 
+especially, I would like to step in method debug like below
+
+![step](https://f.cloud.github.com/assets/83296/564604/bea48514-c581-11e2-8ddf-9343db3741dd.png)
+
 ## How to Use
 
 ```ruby
