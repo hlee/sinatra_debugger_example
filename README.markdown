@@ -43,6 +43,7 @@ class MyApp < Sinatra::Base
 in case to use the short cut of next contine step finish add pry config
 
 ```ruby
+#.pryrc
 Pry.commands.alias_command 'c', 'continue'
 Pry.commands.alias_command 's', 'step'
 Pry.commands.alias_command 'n', 'next'
