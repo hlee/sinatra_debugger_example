@@ -36,7 +36,6 @@ GEM
       rack (>= 1.0)
       rack-test (>= 0.5)
     slop (3.4.5)
-    sqlite3 (1.3.7)
     tilt (1.4.1)
 
 PLATFORMS
@@ -49,4 +48,3 @@ DEPENDENCIES
   pry-debugger
   racksh
   sinatra!
-  sqlite3

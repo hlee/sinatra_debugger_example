@@ -61,3 +61,9 @@ ruby my_app.rb
 rackup 
 
 ![pry](https://f.cloud.github.com/assets/83296/564584/1ab316e4-c57e-11e2-97f3-ddfa55237093.png)
+
+## sinatra console
+
+You may also would like to know how to run console for sinatra and simulate a get or post call from console, try racksh
+
+![racksh](https://f.cloud.github.com/assets/83296/564599/e236e9f0-c580-11e2-842b-8dbefccb7065.png)
