@@ -40,6 +40,15 @@ class MyApp < Sinatra::Base
   end
 ```
 
+in case to use the short cut of next contine step finish add pry config
+
+```ruby
+Pry.commands.alias_command 'c', 'continue'
+Pry.commands.alias_command 's', 'step'
+Pry.commands.alias_command 'n', 'next'
+Pry.commands.alias_command 'f', 'finish'
+```
+
 visit at http://localhost:9292
 
 ## looks like
