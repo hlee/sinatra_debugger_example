@@ -35,6 +35,8 @@ GEM
     racksh (1.0.0)
       rack (>= 1.0)
       rack-test (>= 0.5)
+    shotgun (0.9)
+      rack (>= 1.0)
     slop (3.4.5)
     tilt (1.4.1)
 
@@ -47,4 +49,5 @@ DEPENDENCIES
   pry
   pry-debugger
   racksh
+  shotgun
   sinatra!

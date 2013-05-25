@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem 'sinatra', github: 'sinatra/sinatra'
+gem 'shotgun'
 
 # Debug and Develop tool case
 group :development, :test do
